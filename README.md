@@ -1,6 +1,7 @@
 # serealization_app
 
-A new Flutter project.
+App que estuda métodos de serealização com arquitetura de projeto getx
+App wich presents some serealization methods, with getx architecture pattern approach
 
 ## Getting Started
 
